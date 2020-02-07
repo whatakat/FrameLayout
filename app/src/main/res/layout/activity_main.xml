@@ -55,6 +55,7 @@
         android:id="@+id/b9"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
         android:text="9"/>
     <Button
         android:id="@+id/b0"
